@@ -47,13 +47,13 @@ I am a Software Engineering student with a keen interest in mobile app developme
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-  Docker & Postman
+  Postman & REST APIs
 </p>
 
 ### IDEs & Editors
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudiocode/visualstudiocode-icon.svg" alt="VS Code" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="30" height="30"/>
 </p>
