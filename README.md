@@ -1,46 +1,100 @@
-# Hi, I’m Talha Sami
+<h1 align="center">Hi, I’m Talha Sami</h1>
 
-## Software Engineering Student | Flutter Developer | UI/UX Enthusiast
+<h3 align="center">
+Software Engineering Student | Flutter Developer | UI/UX Enthusiast
+</h3>
 
-I am a Software Engineering student focused on building real-world applications with clean architecture and strong fundamentals. I currently work with Flutter for mobile development and have a keen interest in UI/UX design and user-centered interfaces.
+<p align="center">
+A Flutter developer focused on clean architecture, smooth UI/UX, and solving real-world problems through code.
+</p>
 
-Alongside development, I consistently practice data structures, algorithms, and object-oriented programming to strengthen my problem-solving skills.
+<br/>
 
----
+<h3 align="center">About Me</h3>
 
-## Technologies & Tools
+<p align="center">
+I am a Software Engineering student with a strong interest in mobile application development and user-centered design.
+I enjoy building real-world applications using Flutter while strengthening my foundations in data structures,
+algorithms, and object-oriented programming.
+</p>
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+<br/>
 
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=flat&logo=figma&logoColor=white)
+<h3 align="center">Languages and Tools</h3>
 
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
 
----
+<br/>
 
-## Projects
+<h3 align="center">Projects</h3>
 
-All of my projects are available here:  
-https://github.com/tlhasami
+<p align="center">
+All of my projects are available at <br/>
+<a href="https://github.com/tlhasami">https://github.com/tlhasami</a>
+</p>
 
----
+<br/>
 
-## Problem Solving
+<h3 align="center">Problem Solving</h3>
 
-- LeetCode: https://leetcode.com/tlhasami
+<p align="center">
+LeetCode: <a href="https://leetcode.com/tlhasami">https://leetcode.com/tlhasami</a>
+</p>
 
----
+<br/>
 
-## Contact
+<h3 align="center">Contact</h3>
 
-- Email: talharajpoot2711@gmail.com  
-- GitHub: https://github.com/tlhasami
+<p align="center">
+Email: talharajpoot2711@gmail.com <br/>
+GitHub: <a href="https://github.com/tlhasami">https://github.com/tlhasami</a>
+</p>
