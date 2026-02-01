@@ -49,7 +49,6 @@ I am a Software Engineering student with a keen interest in mobile app developme
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  Postman & REST APIs
 </p>
 
 ### IDEs & Editors
