@@ -33,6 +33,8 @@ I am a Software Engineering student with a keen interest in mobile app developme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/SFML_Logo.png" alt="SFML" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/OpenGL_logo.svg" alt="GLUT/OpenGL" width="50" height="50"/>
 </p>
 
 ### Databases
