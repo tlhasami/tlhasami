@@ -15,38 +15,48 @@ I am a Software Engineering student with a keen interest in mobile app developme
 ## Tech Stack
 
 ### Programming Languages
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C  
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++  
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java  
-- ![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg) Dart  
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+</p>
 
 ### Frameworks & Libraries
-- ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Flutter  
-- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) Figma  
-- ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) TensorFlow  
-- ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) PyTorch  
-- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) Scikit-learn  
-- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) Pandas  
-- ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) Seaborn  
-- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) OpenCV  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="30" height="30"/>
+</p>
 
 ### Databases
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) MySQL  
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) PostgreSQL  
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) MongoDB  
-- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) Firebase  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+</p>
 
 ### Tools & Platforms
-- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git  
-- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux  
-- Docker, Postman, REST APIs  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
+  Docker & Postman
+</p>
 
 ### IDEs & Editors
-- ![VS Code](https://www.vectorlogo.zone/logos/visualstudiocode/visualstudiocode-icon.svg) VS Code  
-- ![Visual Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg) Visual Studio  
-- ![Android Studio](https://www.vectorlogo.zone/logos/android/android-icon.svg) Android Studio  
-- ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg) Jupyter Notebook  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudiocode/visualstudiocode-icon.svg" alt="VS Code" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="30" height="30"/>
+</p>
 
 ---
 
