@@ -78,3 +78,4 @@ LeetCode: [https://leetcode.com/tlhasami](https://leetcode.com/tlhasami)
 
 - Email: talharajpoot2711@gmail.com  
 - GitHub: [https://github.com/tlhasami](https://github.com/tlhasami)
+- Linkedin: [https://www.linkedin.com/in/tlhasami](https://www.linkedin.com/in/tlhasami)
