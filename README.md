@@ -2,8 +2,6 @@
 
 **Software Engineering Student | Flutter Developer | UI/UX Enthusiast**
 
-Passionate Flutter developer focused on clean architecture, smooth UI/UX, and solving real-world problems through code. Strong foundations in data structures, algorithms, and object-oriented programming.
-
 ---
 
 ## About Me
