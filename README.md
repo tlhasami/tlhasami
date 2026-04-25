@@ -10,7 +10,7 @@ I am a Software Engineering student with a keen interest in mobile app developme
 
 I also specialize in GoHighLevel (GHL), building automation workflows, CRM pipelines, and integrations to optimize business processes and conversions.
 
-You can explore my work, projects, and technical journey through my personal portfolio:  
+Portfolio:  
 https://tlhasami.github.io/portfolio/
 
 ---
@@ -19,11 +19,11 @@ https://tlhasami.github.io/portfolio/
 
 ### Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
 ### Frameworks & Libraries
@@ -32,32 +32,31 @@ https://tlhasami.github.io/portfolio/
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="50"/>
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
 </p>
 
 ### Automation & Integrations
 <p align="center">
-  <img src="https://seeklogo.com/images/G/gohighlevel-logo-6B5F9C7B2F-seeklogo.com.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/automation.png" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/make/make-icon.svg" width="50"/>
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
 ### IDEs & Editors
@@ -65,21 +64,20 @@ https://tlhasami.github.io/portfolio/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
 </p>
 
 ---
 
 ## Projects
 
-All of my projects are available at:  
 https://github.com/tlhasami
 
 ---
 
 ## Problem Solving
 
-LeetCode: https://leetcode.com/tlhasami
+https://leetcode.com/tlhasami
 
 ---
 
