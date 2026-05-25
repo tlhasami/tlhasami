@@ -48,9 +48,7 @@ https://tlhasami.github.io/portfolio/
 
 ### Automation & Integrations
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/automation.png" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/make/make-icon.svg" width="50"/>
 </p>
 
 ### Tools & Platforms
